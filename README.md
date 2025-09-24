@@ -36,7 +36,7 @@ This project sets up a secure virtual network in Azure with two virtual machines
 - VM deployment
 ![VM deployment](vm1&2.png)
 - Ping results between VMs
-## vm1
+- ### vm1
 ![Ping results](vm1-terminal-ping)
-## vm2
+- ### vm2
 ![Ping results](vm2-terminal-ping)
