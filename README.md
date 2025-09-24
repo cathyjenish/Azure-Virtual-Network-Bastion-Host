@@ -29,14 +29,14 @@ This project sets up a secure virtual network in Azure with two virtual machines
 - No public IPs needed for VMs
 
 ## Screenshots
-- Virtual network setup
+- ### Virtual network setup
 ![Virtual Network Setup](vnet_setup.png)
-- Bastion configuration
+- ### Bastion configuration
 ![Bastion configuration](Bastion.png)
-- VM deployment
+- ### VM deployment
 ![VM deployment](vm1&2.png)
-- Ping results between VMs
+- ### Ping results between VMs
 - ### vm1
-![Ping results](vm1-terminal-ping)
+![Ping results](vm1-terminal-ping.png)
 - ### vm2
-![Ping results](vm2-terminal-ping)
+![Ping results](vm2-terminal-ping.png)
